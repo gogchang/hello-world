@@ -1,2 +1,2 @@
 # hello-world
-just a normal library
+Just a normal library
